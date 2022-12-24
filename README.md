@@ -1,1 +1,1 @@
-# VSCode_plugens_settings
+# VSCode_plugins_settings
